@@ -1,0 +1,21 @@
+*{
+    padding:0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.button{
+    text-decoration: none;
+    color: black;
+    
+}
+#logout{
+    display: none;
+}
+.main{
+    background-image: linear-gradient(to top ,#111D3F,#153C63,#185D87,#369DCA,#9ccfe8,#c2e2f6,#DDEFF8);
+    height: 91vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+}
